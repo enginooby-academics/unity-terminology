@@ -2,9 +2,12 @@
 
 # Animation
 ### Animation clip
-> A _**single linear recording**_ containing information of _**changes in properties over time**_ (position, rotation, etc) of certain objects
+> A _**single linear recording**_ containing information of _**changes in properties over time**_ (position, rotation, etc) of a certain object
 + 👶 Creation: in Unity, humanoid motion capture, in external 3D application, Unity asset, timeline 
 + Examples: "Walk", "Idle", etc
+
+### Keyframe
+> Each point on clip containing information of _**properties at a specific time**_ of a certain object 
 
 ### Animation curve
 
