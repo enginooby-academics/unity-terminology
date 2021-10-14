@@ -9,6 +9,9 @@
 ### Keyframe
 > Each point on clip containing information of _**properties at a specific time**_ of a certain object 
 
+### Animation curve
+> Attached to _**[animation clip](#animation-clip)**_ to indicate _**how (smoothness/roughness) a property change**_ from one _**[keyframe](#keyframe)**_ to another
+
 ### Automatic keyframing
 > In Animation mode, any changes applied to an object from _**Scene view**_ or _**Inspector**_ will be _**recorded**_ as _**[keyframes](#keyframe)**_
 
