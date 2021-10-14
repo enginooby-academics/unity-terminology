@@ -10,7 +10,13 @@
 > Each point on clip containing information of _**properties at a specific time**_ of a certain object 
 
 ### Automatic keyframing
-> In Animation mode, any changes applied to an object from _**Scene view**_ or _**Inspector**_ will be _**recorded**_ as series of keyframes
+> In Animation mode, any changes applied to an object from _**Scene view**_ or _**Inspector**_ will be _**recorded**_ as _**[keyframes](#keyframe)**_
+
+### Playhead
+> The _**while line**_ in Animation Timeline indicating where to add a _**[keyframe](#keyframe)**_
+
+<img src="https://connect-prd-cdn.unity.com/20210123/learn/images/11f918b1-464c-407e-9d0c-f2fd5e67d752_image10.png.2000x0x1.png" width="600" height="200">
+
 
 ### Animation curve
 
