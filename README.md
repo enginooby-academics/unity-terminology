@@ -9,6 +9,9 @@
 ### Keyframe
 > Each point on clip containing information of _**properties at a specific time**_ of a certain object 
 
+### Automatic keyframing
+> In Animation mode, any changes applied to an object from _**Scene view**_ or _**Inspector**_ will be _**recorded**_ as series of keyframes
+
 ### Animation curve
 
 ### Avatar
