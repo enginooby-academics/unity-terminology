@@ -37,6 +37,9 @@
 ### Animator component
 > _**Assign animation**_ to a GameObject, require a reference to an _**[animator controller](#animator-controller)**_ and an _**[avatar](#avatar)**_ (if the GameObject is a humanoid character)
 
+### Root motion	
+> Allow animation to change the position and rotation of the GameObject
+
 ### State machine
 
 ### Mecanim
