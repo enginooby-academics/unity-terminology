@@ -27,12 +27,15 @@
 
 ### Avatar mask
 
-### Retargeting
+### Humandnoid animation retargeting
 > Apply the _**same set of animations**_ for various _**humanoid models**_ utilizing _**[avatar](#avatar)**_
 
 ### Animation event
 
-### Animation controller
+### Animator controller
+
+### Animator component
+> _**Assign animation**_ to a GameObject, require a reference to an _**[animator controller](#animator-controller)**_ and an _**[avatar](#avatar)**_ (if the GameObject is a humanoid character)
 
 ### State machine
 
