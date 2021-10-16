@@ -40,6 +40,9 @@
 ### Root motion	
 > Allow animation to change the position and rotation of the GameObject
 
+### Culling mode
+> Decide whether to animate while the GameObject is off-screen (not renderred)
+
 ### State machine
 
 ### Mecanim
