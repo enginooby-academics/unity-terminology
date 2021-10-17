@@ -40,6 +40,7 @@
 
 ### Root motion	
 > Allow animation to _**change the position and rotation according to the uppermost parent**_ of the GameObject (# w/o root motion: according to the world coordinate)
++ Example: object with initial Y=0, animation Y-1 then Y+2. W/ root motion, Y=1 (-1+2) after 1st animation, 2nd animation starts from Y=1, Y=2 after 2nd animation... W/o root motion, 2nd animation starts from initial Y=0, so do 3rd/4th...
 
 ### Culling mode
 > Decide whether to animate while the GameObject is off-screen (not renderred)
