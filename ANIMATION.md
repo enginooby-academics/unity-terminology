@@ -39,7 +39,7 @@
 > _**Assign animation**_ to a GameObject, require a reference to an _**[animator controller](#animator-controller)**_ and an _**[avatar](#avatar)**_ (if the GameObject is a humanoid character)
 
 ### Root motion	
-> Allow animation to change the position and rotation of the GameObject
+> Allow animation to _**change the position and rotation according to the uppermost parent**_ of the GameObject (# w/o root motion: according to the world coordinate)
 
 ### Culling mode
 > Decide whether to animate while the GameObject is off-screen (not renderred)
