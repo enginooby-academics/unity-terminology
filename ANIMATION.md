@@ -1,5 +1,7 @@
 👶 Creation | 🛠 Applications/Use cases | 👍 Pros | 👎 Cons
 
+<img src="https://docs.unity3d.com/uploads/Main/MecanimHowItFitsTogether.jpg" width="600" height="280">
+
 ### Animation clip
 > A _**single linear recording**_ containing information of _**changes in properties over time**_ (position, rotation, etc) of a certain object
 + 👶 Creation: in Unity, humanoid motion capture, in external 3D application, Unity asset, timeline 
